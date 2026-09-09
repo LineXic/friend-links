@@ -550,5 +550,13 @@
     "color": "#66ccff",
     "blog": "RyogiMutsuki 的小窝",
     "desc": "愿初心不改，愿热爱长存"
+  },
+  {
+    "url": "https://aiccrop.com",
+    "avatar": "https://aiccrop.com/api/head/",
+    "name": "CircleCrop",
+    "color": "#a07956",
+    "blog": "CircleCrop Blog",
+    "desc": "舟遥遥以轻飏，风飘飘而吹衣。"
   }
 ]
